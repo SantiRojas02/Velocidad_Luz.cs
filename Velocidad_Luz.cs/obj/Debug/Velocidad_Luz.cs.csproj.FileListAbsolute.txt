@@ -1,0 +1,6 @@
+D:\Facultad\Programacion\Act 1 c#\Velocidad_Luz.cs\Velocidad_Luz.cs\bin\Debug\Velocidad_Luz.cs.exe.config
+D:\Facultad\Programacion\Act 1 c#\Velocidad_Luz.cs\Velocidad_Luz.cs\obj\Debug\Velocidad_Luz.cs.csprojResolveAssemblyReference.cache
+D:\Facultad\Programacion\Act 1 c#\Velocidad_Luz.cs\Velocidad_Luz.cs\bin\Debug\Velocidad_Luz.cs.exe
+D:\Facultad\Programacion\Act 1 c#\Velocidad_Luz.cs\Velocidad_Luz.cs\bin\Debug\Velocidad_Luz.cs.pdb
+D:\Facultad\Programacion\Act 1 c#\Velocidad_Luz.cs\Velocidad_Luz.cs\obj\Debug\Velocidad_Luz.cs.exe
+D:\Facultad\Programacion\Act 1 c#\Velocidad_Luz.cs\Velocidad_Luz.cs\obj\Debug\Velocidad_Luz.cs.pdb
